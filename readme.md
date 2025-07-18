@@ -20,13 +20,15 @@ Three Musketeers: HTML, CSS, JavaScript
 
 ## Hosted on Github:
 
-    
+URL Link:
+
+    https://tanmay-create.github.io/Rock_Scissor_Paper/
+
 ## Set-Up:
 
 Clone the Repo on your local Computer:
 
 ```bash
 git clone https://github.com/Tanmay-create/Rock_Scissor_Paper.git
-
 
  
