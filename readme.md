@@ -1,6 +1,6 @@
 ## Rock Paper Scissor (Visually Interactive)
 
-![Gameplay](../assets/Screenshot.png)
+![Gameplay](./assets/Screenshot.png)
 A visually interactive and dynamic Rock-Paper-Scissors game where the user plays against a computer opponent. Browser based game.
 
 ## Features:
