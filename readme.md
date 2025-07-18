@@ -18,9 +18,15 @@ A visually interactive and dynamic Rock-Paper-Scissors game where the user plays
 
 Three Musketeers: HTML, CSS, JavaScript
 
+## Hosted on Github:
+
+    
 ## Set-Up:
 
 Clone the Repo on your local Computer:
 
 ```bash
 git clone https://github.com/Tanmay-create/Rock_Scissor_Paper.git
+
+
+ 
