@@ -1,6 +1,6 @@
 ## Rock Paper Scissor (Visually Interactive)
 
-![Start](assets/)
+![Gameplay](assets/preview.mp4)
 A visually interactive and dynamic Rock-Paper-Scissors game where the user plays against a computer opponent. Browser based game.
 
 ## Features:
@@ -19,6 +19,5 @@ Three Musketeers: HTML, CSS, JavaScript
 
 Clone the Repo on your local Computer:
 
-    git clone -------------
+    git clone https://github.com/Tanmay-create/Rock_Scissor_Paper.git
     
-OR
